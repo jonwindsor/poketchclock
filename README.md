@@ -11,7 +11,7 @@ Image of the clock face:
 
 *the clock only features hands for hours and minutes to keep the spirit of the original. A link to the sketch can be found by clicking on the embeded hyperlink attached to 'poketchclock' or by simply clicking the link below.*
 
-https://openprocessing.org/sketch/1354293
+[See fully functional clock face here](https://openprocessing.org/sketch/1354293)
 
 
 ## Feats, Struggles, and Reflection
